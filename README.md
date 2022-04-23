@@ -6,28 +6,30 @@ This Library will be able to get the Exact in game race time and display it afte
 Works with Multi-Player or Single-Player.
 Works even when the UI has been hidden<br/>
 
-## Installation
 
+## Installation
 ### Method 1
 
 Clone this repository anywhere into your Plugin's Folder.<br/>
-
 ### Method 2
 
 Download the TimeLib.as File seperately and place it anywhere inside your plugin's Folder. <br/>
 
-## Example
+
+## Usage
 ```as
 int RaceTime = TimeLib::GetRaceTime();
 
 print(RaceTime);
 ```
 
+
 ## Feedback
 Please feel free to join our Discord Server for Discussion on the Package. <br/>
 Any bugs/issues can be reported on our Github. <br/>
 
 Discord: https://discord.gg/A55FDQwkw2 <br/>
+
 
 ## Thankyou
 Thankyou for using our Library, we are always here to be of assistance ^_^. <br/>
