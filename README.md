@@ -1,5 +1,4 @@
 ## TMNext Time Library
-
 This is a library for OpenPlanet Developers to Get the Current In Game Race Time in TrackMania 2020 with Millisecond Accuracy. <br/>
 
 This Library will be able to get the Exact in game race time and display it after each checkpoint (End Block counts as a Checkpoint).
@@ -9,10 +8,9 @@ Works even when the UI has been hidden<br/>
 
 ## Installation
 ### Method 1
-
 Clone this repository anywhere into your Plugin's Folder.<br/>
-### Method 2
 
+### Method 2
 Download the TimeLib.as File seperately and place it anywhere inside your plugin's Folder. <br/>
 
 
