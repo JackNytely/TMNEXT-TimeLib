@@ -16,8 +16,6 @@ Clone this repository anywhere into your Plugin's Folder.<br/>
 
 Download the TimeLib.as File seperately and place it anywhere inside your plugin's Folder. <br/>
 
-```
-
 ## Example
 ```as
 int RaceTime = TimeLib::GetRaceTime();
